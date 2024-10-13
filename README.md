@@ -4,7 +4,7 @@
 -👀 I’m interested in Learning<br>
 -🌱 I’m currently learning Full Stack Web Development<br>
 -💞️ I’m looking to collaborate on multiple projects.<br>
--📫 Reach me @ akshay9880152461@gmail.com<br>
+-📫 Reach me @ akshay9880152461@hotmail.com<br>
 
 
 # 🌐 Socials:
