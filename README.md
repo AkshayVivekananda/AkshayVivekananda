@@ -1,6 +1,6 @@
 # 💫 About Me :
 
--👋 Hi, I’m @AkshayVivekananda B<br>
+-👋 Hi, I’m @AkshayVivekananda B
 -👀 I’m interested in Learning<br>
 -🌱 I’m currently learning Full Stack Web Development<br>
 -💞️ I’m looking to collaborate on multiple projects.<br>
