@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About M :
 
 -👋 Hi, I’m @AkshayVivekananda B<br>
 -👀 I’m interested in Learning<br>
